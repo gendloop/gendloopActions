@@ -18,3 +18,7 @@
 	path = update-submodules
 	url = https://github.com/gendloop/update-submodules
 	branch = main
+[submodule "add-submodule"]
+	path = add-submodule
+	url = https://github.com/gendloop/add-submodule
+	branch = main
