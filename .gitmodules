@@ -2,3 +2,7 @@
 	path = release-version
 	url = https://github.com/gendloop/release-version
 	branch = main
+[submodule "sync-download"]
+	path = sync-download
+	url = https://github.com/gendloop/sync-download
+	branch = main
