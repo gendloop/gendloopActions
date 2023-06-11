@@ -6,3 +6,7 @@
 	path = sync-download
 	url = https://github.com/gendloop/sync-download
 	branch = main
+[submodule "cmake-and-upload"]
+	path = cmake-and-upload
+	url = https://github.com/gendloop/cmake-and-upload
+	branch = main
