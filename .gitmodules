@@ -1,0 +1,4 @@
+[submodule "release-version"]
+	path = release-version
+	url = https://github.com/gendloop/release-version
+	branch = main
