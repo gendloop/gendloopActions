@@ -14,3 +14,7 @@
 	path = upload-release-assets
 	url = https://github.com/gendloop/upload-release-assets
 	branch = main
+[submodule "update-submodules"]
+	path = update-submodules
+	url = https://github.com/gendloop/update-submodules
+	branch = main
