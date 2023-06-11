@@ -10,3 +10,7 @@
 	path = cmake-and-upload
 	url = https://github.com/gendloop/cmake-and-upload
 	branch = main
+[submodule "upload-release-assets"]
+	path = upload-release-assets
+	url = https://github.com/gendloop/upload-release-assets
+	branch = main
