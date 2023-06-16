@@ -22,3 +22,7 @@
 	path = add-submodule
 	url = https://github.com/gendloop/add-submodule
 	branch = main
+[submodule "add-vs-solution"]
+	path = add-vs-solution
+	url = https://github.com/gendloop/add-vs-solution
+	branch = main
