@@ -26,3 +26,7 @@
 	path = add-vs-solution
 	url = https://github.com/gendloop/add-vs-solution
 	branch = main
+[submodule "copy-secrets"]
+	path = copy-secrets
+	url = https://github.com/gendloop/copy-secrets
+	branch = main
