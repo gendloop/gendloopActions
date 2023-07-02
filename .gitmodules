@@ -30,3 +30,7 @@
 	path = copy-secrets
 	url = https://github.com/gendloop/copy-secrets
 	branch = main
+[submodule "replace-str"]
+	path = replace-str
+	url = https://github.com/gendloop/replace-str
+	branch = main
