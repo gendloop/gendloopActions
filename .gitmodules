@@ -34,3 +34,7 @@
 	path = replace-str
 	url = https://github.com/gendloop/replace-str
 	branch = main
+[submodule "git-push"]
+	path = git-push
+	url = https://github.com/gendloop/git-push
+	branch = main
