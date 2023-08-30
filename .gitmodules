@@ -42,3 +42,7 @@
 	path = add-vs-test-project
 	url = https://github.com/gendloop/add-vs-test-project
 	branch = main
+[submodule "repository-dispatch"]
+	path = repository-dispatch
+	url = https://github.com/gendloop/repository-dispatch
+	branch = main
