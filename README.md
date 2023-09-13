@@ -1,5 +1,6 @@
 # gendloopActions
 
+[![create-manual](https://img.shields.io/static/v1?label=Actions&message=create-manual&color=blue)](https://github.com/gendloop/create-manual/tree/main) 
 [![repository-dispatch](https://img.shields.io/static/v1?label=Actions&message=repository-dispatch&color=blue)](https://github.com/gendloop/repository-dispatch/tree/main) 
 [![add-vs-test-project](https://img.shields.io/static/v1?label=Actions&message=add-vs-test-project&color=blue)](https://github.com/gendloop/add-vs-test-project/tree/main) 
 [![git-push](https://img.shields.io/static/v1?label=Actions&message=git-push&color=blue)](https://github.com/gendloop/git-push/tree/main) 
