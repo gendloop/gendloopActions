@@ -46,3 +46,7 @@
 	path = repository-dispatch
 	url = https://github.com/gendloop/repository-dispatch
 	branch = main
+[submodule "create-manual"]
+	path = create-manual
+	url = https://github.com/gendloop/create-manual
+	branch = main
