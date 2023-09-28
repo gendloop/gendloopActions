@@ -50,3 +50,7 @@
 	path = create-manual
 	url = https://github.com/gendloop/create-manual
 	branch = main
+[submodule "delete-submodules"]
+	path = delete-submodules
+	url = https://github.com/gendloop/delete-submodules
+	branch = main
