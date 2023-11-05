@@ -1,16 +1,17 @@
 # gendloopActions
 
-[![delete-submodules](https://img.shields.io/static/v1?label=Actions&message=delete-submodules&color=blue)](https://github.com/gendloop/delete-submodules/tree/main) 
-[![create-manual](https://img.shields.io/static/v1?label=Actions&message=create-manual&color=blue)](https://github.com/gendloop/create-manual/tree/main) 
-[![repository-dispatch](https://img.shields.io/static/v1?label=Actions&message=repository-dispatch&color=blue)](https://github.com/gendloop/repository-dispatch/tree/main) 
-[![add-vs-test-project](https://img.shields.io/static/v1?label=Actions&message=add-vs-test-project&color=blue)](https://github.com/gendloop/add-vs-test-project/tree/main) 
-[![git-push](https://img.shields.io/static/v1?label=Actions&message=git-push&color=blue)](https://github.com/gendloop/git-push/tree/main) 
-[![replace-str](https://img.shields.io/static/v1?label=Actions&message=replace-str&color=blue)](https://github.com/gendloop/replace-str/tree/main) 
-[![copy-secrets](https://img.shields.io/static/v1?label=Actions&message=copy-secrets&color=blue)](https://github.com/gendloop/copy-secrets/tree/main) 
-[![add-vs-solution](https://img.shields.io/static/v1?label=Actions&message=add-vs-solution&color=blue)](https://github.com/gendloop/add-vs-solution/tree/main) 
-[![add-submodule](https://img.shields.io/static/v1?label=Actions&message=add-submodule&color=blue)](https://github.com/gendloop/add-submodule/tree/main) 
-[![update-submodules](https://img.shields.io/static/v1?label=Actions&message=update-submodules&color=blue)](https://github.com/gendloop/update-submodules/tree/main) 
-[![upload-release-assets](https://img.shields.io/static/v1?label=Actions&message=upload-release-assets&color=blue)](https://github.com/gendloop/upload-release-assets/tree/main) 
-[![cmake-and-upload](https://img.shields.io/static/v1?label=Actions&message=cmake-and-upload&color=blue)](https://github.com/gendloop/cmake-and-upload/tree/main) 
-[![sync-download](https://img.shields.io/static/v1?label=Actions&message=sync-download&color=blue)](https://github.com/gendloop/sync-download/tree/main) 
-[![sync-download](https://img.shields.io/static/v1?label=Actions&message=release-version&color=blue)](https://github.com/gendloop/release-version/tree/main)
+| **Num** | **Repo** | **Description** |
+| ---- | ---- | ---- |
+| 1 | [![update-submodules](https://img.shields.io/static/v1?label=Actions&message=update-submodules&color=blue)](https://github.com/gendloop/update-submodules)| Update submodules |
+| 2 | [![replace-str](https://img.shields.io/static/v1?label=Actions&message=replace-str&color=blue)](https://github.com/gendloop/replace-str)| Replace str1 in file1 to str2 in file2 |
+| 3 | [![add-vs-solution](https://img.shields.io/static/v1?label=Actions&message=add-vs-solution&color=blue)](https://github.com/gendloop/add-vs-solution)| Add a vs solution to repo. |
+| 4 | [![gendloopActions](https://img.shields.io/static/v1?label=Actions&message=gendloopActions&color=blue)](https://github.com/gendloop/gendloopActions)| gendloop's actions |
+| 5 | [![template-gendloopAction](https://img.shields.io/static/v1?label=Actions&message=template-gendloopAction&color=blue)](https://github.com/gendloop/template-gendloopAction)| Action template |
+| 6 | [![add-submodule](https://img.shields.io/static/v1?label=Actions&message=add-submodule&color=blue)](https://github.com/gendloop/add-submodule)| Add submodule |
+| 7 | [![add-vs-test-project](https://img.shields.io/static/v1?label=Actions&message=add-vs-test-project&color=blue)](https://github.com/gendloop/add-vs-test-project)|  |
+| 8 | [![sync-download](https://img.shields.io/static/v1?label=Actions&message=sync-download&color=blue)](https://github.com/gendloop/sync-download)| Sync downloaded files by downloadFilesFromRepo.json |
+| 9 | [![cmake-and-upload](https://img.shields.io/static/v1?label=Actions&message=cmake-and-upload&color=blue)](https://github.com/gendloop/cmake-and-upload)| CMake and upload assets by config.txt |
+| 10 | [![upload-release-assets](https://img.shields.io/static/v1?label=Actions&message=upload-release-assets&color=blue)](https://github.com/gendloop/upload-release-assets)| Upload assets to specific tag |
+| 11 | [![git-push](https://img.shields.io/static/v1?label=Actions&message=git-push&color=blue)](https://github.com/gendloop/git-push)|  |
+| 12 | [![release-version](https://img.shields.io/static/v1?label=Actions&message=release-version&color=blue)](https://github.com/gendloop/release-version)| Release new version |
+| 13 | [![copy-secrets](https://img.shields.io/static/v1?label=Actions&message=copy-secrets&color=blue)](https://github.com/gendloop/copy-secrets)| Copy secrets to repo |
