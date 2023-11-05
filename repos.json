@@ -7,6 +7,10 @@
   "description": "repository-dispatch"
 }
 {
+  "name": "create-manual",
+  "description": "create-manual"
+}
+{
   "name": "update-submodules",
   "description": "Update submodules"
 }
@@ -17,10 +21,6 @@
 {
   "name": "add-submodule",
   "description": "Add submodule"
-}
-{
-  "name": "gendloopActions",
-  "description": "gendloop's actions"
 }
 {
   "name": "add-vs-test-project",
@@ -35,12 +35,16 @@
   "description": "CMake and upload assets by config.txt"
 }
 {
+  "name": "upload-release-assets",
+  "description": "Upload assets to specific tag"
+}
+{
   "name": "git-push",
   "description": null
 }
 {
-  "name": "upload-release-assets",
-  "description": "Upload assets to specific tag"
+  "name": "release-version",
+  "description": "Release new version"
 }
 {
   "name": "get-repos-by-topics",
@@ -49,10 +53,6 @@
 {
   "name": "delete-submodules",
   "description": "delete-submodules"
-}
-{
-  "name": "release-version",
-  "description": "Release new version"
 }
 {
   "name": "generate-readme-for-repos",
