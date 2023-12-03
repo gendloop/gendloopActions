@@ -35,14 +35,6 @@
   "description": "create new branch"
 }
 {
-  "name": "get-repos-by-topics",
-  "description": "get repos by topics"
-}
-{
-  "name": "delete-submodules",
-  "description": "delete-submodules"
-}
-{
   "name": "git-push",
   "description": null
 }
@@ -55,12 +47,20 @@
   "description": "Generate README for repos"
 }
 {
-  "name": "release-version",
-  "description": "Release new version"
+  "name": "get-repos-by-topics",
+  "description": "get repos by topics"
+}
+{
+  "name": "delete-submodules",
+  "description": "delete-submodules"
 }
 {
   "name": "add-submodule",
   "description": "Add submodule"
+}
+{
+  "name": "release-version",
+  "description": "Release new version"
 }
 {
   "name": "copy-secrets",
