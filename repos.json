@@ -3,24 +3,20 @@
   "description": "Add a vs solution to repo."
 }
 {
-  "name": "repository-dispatch",
-  "description": "repository-dispatch"
-}
-{
   "name": "create-manual",
   "description": "create-manual"
 }
 {
-  "name": "replace-str",
-  "description": "Replace str1 in file1 to str2 in file2"
+  "name": "repository-dispatch",
+  "description": "repository-dispatch"
 }
 {
   "name": "update-submodules",
   "description": "Update submodules"
 }
 {
-  "name": "add-vs-test-project",
-  "description": null
+  "name": "replace-str",
+  "description": "Replace str1 in file1 to str2 in file2"
 }
 {
   "name": "cmake-and-upload",
@@ -31,20 +27,8 @@
   "description": "Sync downloaded files by downloadFilesFromRepo.json"
 }
 {
-  "name": "create-new-branch",
-  "description": "create new branch"
-}
-{
-  "name": "git-push",
-  "description": null
-}
-{
-  "name": "upload-release-assets",
-  "description": "Upload assets to specific tag"
-}
-{
-  "name": "generate-readme-for-repos",
-  "description": "Generate README for repos"
+  "name": "add-vs-test-project",
+  "description": "add test project for vs solution"
 }
 {
   "name": "get-repos-by-topics",
@@ -53,6 +37,22 @@
 {
   "name": "delete-submodules",
   "description": "delete-submodules"
+}
+{
+  "name": "create-new-branch",
+  "description": "create new branch"
+}
+{
+  "name": "generate-readme-for-repos",
+  "description": "Generate README for repos"
+}
+{
+  "name": "upload-release-assets",
+  "description": "Upload assets to specific tag"
+}
+{
+  "name": "git-push",
+  "description": "git push"
 }
 {
   "name": "add-submodule",
