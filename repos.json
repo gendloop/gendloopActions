@@ -3,20 +3,20 @@
   "description": "Add a vs solution to repo."
 }
 {
-  "name": "create-manual",
-  "description": "create-manual"
-}
-{
   "name": "repository-dispatch",
   "description": "repository-dispatch"
 }
 {
-  "name": "update-submodules",
-  "description": "Update submodules"
+  "name": "create-manual",
+  "description": "create-manual"
 }
 {
   "name": "replace-str",
   "description": "Replace str1 in file1 to str2 in file2"
+}
+{
+  "name": "update-submodules",
+  "description": "Update submodules"
 }
 {
   "name": "cmake-and-upload",
@@ -31,20 +31,16 @@
   "description": "add test project for vs solution"
 }
 {
+  "name": "create-new-branch",
+  "description": "create new branch"
+}
+{
   "name": "get-repos-by-topics",
   "description": "get repos by topics"
 }
 {
   "name": "delete-submodules",
   "description": "delete-submodules"
-}
-{
-  "name": "create-new-branch",
-  "description": "create new branch"
-}
-{
-  "name": "generate-readme-for-repos",
-  "description": "Generate README for repos"
 }
 {
   "name": "upload-release-assets",
@@ -57,6 +53,10 @@
 {
   "name": "add-submodule",
   "description": "Add submodule"
+}
+{
+  "name": "generate-readme-for-repos",
+  "description": "Generate README for repos"
 }
 {
   "name": "release-version",
