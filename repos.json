@@ -1,16 +1,4 @@
 {
-  "name": "add-vs-solution",
-  "description": "Add a vs solution to repo."
-}
-{
-  "name": "repository-dispatch",
-  "description": "repository-dispatch"
-}
-{
-  "name": "create-manual",
-  "description": "create-manual"
-}
-{
   "name": "replace-str",
   "description": "Replace str1 in file1 to str2 in file2"
 }
@@ -19,20 +7,28 @@
   "description": "Update submodules"
 }
 {
-  "name": "cmake-and-upload",
-  "description": "CMake and upload assets by config.txt"
+  "name": "create-manual",
+  "description": "create-manual"
+}
+{
+  "name": "repository-dispatch",
+  "description": "repository-dispatch"
+}
+{
+  "name": "add-vs-solution",
+  "description": "Add a vs solution to repo."
 }
 {
   "name": "sync-download",
   "description": "Sync downloaded files by downloadFilesFromRepo.json"
 }
 {
-  "name": "add-vs-test-project",
-  "description": "add test project for vs solution"
+  "name": "cmake-and-upload",
+  "description": "CMake and upload assets by config.txt"
 }
 {
-  "name": "create-new-branch",
-  "description": "create new branch"
+  "name": "add-vs-test-project",
+  "description": "add test project for vs solution"
 }
 {
   "name": "get-repos-by-topics",
@@ -43,26 +39,30 @@
   "description": "delete-submodules"
 }
 {
-  "name": "upload-release-assets",
-  "description": "Upload assets to specific tag"
+  "name": "create-new-branch",
+  "description": "create new branch"
 }
 {
-  "name": "git-push",
-  "description": "git push"
-}
-{
-  "name": "add-submodule",
-  "description": "Add submodule"
+  "name": "copy-secrets",
+  "description": "Copy secrets to repo"
 }
 {
   "name": "generate-readme-for-repos",
   "description": "Generate README for repos"
 }
 {
-  "name": "release-version",
-  "description": "Release new version"
+  "name": "git-push",
+  "description": "git push"
 }
 {
-  "name": "copy-secrets",
-  "description": "Copy secrets to repo"
+  "name": "upload-release-assets",
+  "description": "Upload assets to specific tag"
+}
+{
+  "name": "add-submodule",
+  "description": "Add submodule"
+}
+{
+  "name": "release-version",
+  "description": "Release new version"
 }
