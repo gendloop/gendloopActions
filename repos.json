@@ -7,16 +7,24 @@
   "description": "Update submodules"
 }
 {
-  "name": "create-manual",
-  "description": "create-manual"
+  "name": "add-vs-solution",
+  "description": "Add a vs solution to repo."
 }
 {
   "name": "repository-dispatch",
   "description": "repository-dispatch"
 }
 {
-  "name": "add-vs-solution",
-  "description": "Add a vs solution to repo."
+  "name": "create-manual",
+  "description": "create-manual"
+}
+{
+  "name": "get-repos-by-topics",
+  "description": "get repos by topics"
+}
+{
+  "name": "delete-submodules",
+  "description": "delete-submodules"
 }
 {
   "name": "sync-download",
@@ -31,12 +39,12 @@
   "description": "add test project for vs solution"
 }
 {
-  "name": "get-repos-by-topics",
-  "description": "get repos by topics"
+  "name": "git-push",
+  "description": "git push"
 }
 {
-  "name": "delete-submodules",
-  "description": "delete-submodules"
+  "name": "upload-release-assets",
+  "description": "Upload assets to specific tag"
 }
 {
   "name": "create-new-branch",
@@ -49,14 +57,6 @@
 {
   "name": "generate-readme-for-repos",
   "description": "Generate README for repos"
-}
-{
-  "name": "git-push",
-  "description": "git push"
-}
-{
-  "name": "upload-release-assets",
-  "description": "Upload assets to specific tag"
 }
 {
   "name": "add-submodule",
