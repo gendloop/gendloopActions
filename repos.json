@@ -1,12 +1,4 @@
 {
-  "name": "replace-str",
-  "description": "Replace str1 in file1 to str2 in file2"
-}
-{
-  "name": "update-submodules",
-  "description": "Update submodules"
-}
-{
   "name": "add-vs-solution",
   "description": "Add a vs solution to repo."
 }
@@ -19,12 +11,32 @@
   "description": "create-manual"
 }
 {
+  "name": "replace-str",
+  "description": "Replace str1 in file1 to str2 in file2"
+}
+{
+  "name": "update-submodules",
+  "description": "Update submodules"
+}
+{
+  "name": "create-repo-by-template",
+  "description": "Create a repository using a template"
+}
+{
+  "name": "replace-repo-topics",
+  "description": "Replace all repository topics"
+}
+{
   "name": "get-repos-by-topics",
   "description": "get repos by topics"
 }
 {
   "name": "delete-submodules",
   "description": "delete-submodules"
+}
+{
+  "name": "create-new-branch",
+  "description": "create new branch"
 }
 {
   "name": "sync-download",
@@ -45,10 +57,6 @@
 {
   "name": "upload-release-assets",
   "description": "Upload assets to specific tag"
-}
-{
-  "name": "create-new-branch",
-  "description": "create new branch"
 }
 {
   "name": "copy-secrets",
