@@ -1,4 +1,20 @@
 {
+  "name": "replace-str",
+  "description": "Replace str1 in file1 to str2 in file2"
+}
+{
+  "name": "update-submodules",
+  "description": "Update submodules"
+}
+{
+  "name": "replace-repo-topics",
+  "description": "Replace all repository topics"
+}
+{
+  "name": "create-repo-by-template",
+  "description": "Create a repository using a template"
+}
+{
   "name": "add-vs-solution",
   "description": "Add a vs solution to repo."
 }
@@ -11,20 +27,28 @@
   "description": "create-manual"
 }
 {
-  "name": "replace-str",
-  "description": "Replace str1 in file1 to str2 in file2"
+  "name": "git-push",
+  "description": "git push"
 }
 {
-  "name": "update-submodules",
-  "description": "Update submodules"
+  "name": "upload-release-assets",
+  "description": "Upload assets to specific tag"
 }
 {
-  "name": "create-repo-by-template",
-  "description": "Create a repository using a template"
+  "name": "cmake-and-upload",
+  "description": "CMake and upload assets by config.txt"
 }
 {
-  "name": "replace-repo-topics",
-  "description": "Replace all repository topics"
+  "name": "sync-download",
+  "description": "Sync downloaded files by downloadFilesFromRepo.json"
+}
+{
+  "name": "add-vs-test-project",
+  "description": "add test project for vs solution"
+}
+{
+  "name": "create-new-branch",
+  "description": "create new branch"
 }
 {
   "name": "get-repos-by-topics",
@@ -35,40 +59,16 @@
   "description": "delete-submodules"
 }
 {
-  "name": "create-new-branch",
-  "description": "create new branch"
-}
-{
-  "name": "sync-download",
-  "description": "Sync downloaded files by downloadFilesFromRepo.json"
-}
-{
-  "name": "cmake-and-upload",
-  "description": "CMake and upload assets by config.txt"
-}
-{
-  "name": "add-vs-test-project",
-  "description": "add test project for vs solution"
-}
-{
-  "name": "git-push",
-  "description": "git push"
-}
-{
-  "name": "upload-release-assets",
-  "description": "Upload assets to specific tag"
-}
-{
-  "name": "copy-secrets",
-  "description": "Copy secrets to repo"
+  "name": "add-submodule",
+  "description": "Add submodule"
 }
 {
   "name": "generate-readme-for-repos",
   "description": "Generate README for repos"
 }
 {
-  "name": "add-submodule",
-  "description": "Add submodule"
+  "name": "copy-secrets",
+  "description": "Copy secrets to repo"
 }
 {
   "name": "release-version",
