@@ -11,20 +11,20 @@
   "description": "create-manual"
 }
 {
-  "name": "create-repo-by-template",
-  "description": "Create a repository using a template"
-}
-{
-  "name": "replace-repo-topics",
-  "description": "Replace all repository topics"
+  "name": "update-submodules",
+  "description": "Update submodules"
 }
 {
   "name": "replace-str",
   "description": "Replace str1 in file1 to str2 in file2"
 }
 {
-  "name": "update-submodules",
-  "description": "Update submodules"
+  "name": "create-repo-by-template",
+  "description": "Create a repository using a template"
+}
+{
+  "name": "replace-repo-topics",
+  "description": "Replace all repository topics"
 }
 {
   "name": "add-submodule",
@@ -47,12 +47,12 @@
   "description": "create new branch"
 }
 {
-  "name": "git-push",
-  "description": "git push"
-}
-{
   "name": "upload-release-assets",
   "description": "Upload assets to specific tag"
+}
+{
+  "name": "git-push",
+  "description": "git push"
 }
 {
   "name": "release-version",
@@ -67,10 +67,10 @@
   "description": "Generate README for repos"
 }
 {
-  "name": "delete-submodules",
-  "description": "delete-submodules"
-}
-{
   "name": "get-repos-by-topics",
   "description": "get repos by topics"
+}
+{
+  "name": "delete-submodules",
+  "description": "delete-submodules"
 }
