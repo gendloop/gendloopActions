@@ -19,12 +19,12 @@
   "description": "Replace str1 in file1 to str2 in file2"
 }
 {
-  "name": "replace-repo-topics",
-  "description": "Replace all repository topics"
-}
-{
   "name": "create-repo-by-template",
   "description": "Create a repository using a template"
+}
+{
+  "name": "replace-repo-topics",
+  "description": "Replace all repository topics"
 }
 {
   "name": "add-submodule",
@@ -47,24 +47,16 @@
   "description": "add test project for vs solution"
 }
 {
-  "name": "git-push",
-  "description": "git push"
+  "name": "release-version",
+  "description": "Release new version"
 }
 {
   "name": "upload-release-assets",
   "description": "Upload assets to specific tag"
 }
 {
-  "name": "release-version",
-  "description": "Release new version"
-}
-{
-  "name": "copy-secrets",
-  "description": "Copy secrets to repo"
-}
-{
-  "name": "generate-readme-for-repos",
-  "description": "Generate README for repos"
+  "name": "git-push",
+  "description": "git push"
 }
 {
   "name": "get-repos-by-topics",
@@ -73,4 +65,12 @@
 {
   "name": "delete-submodules",
   "description": "delete-submodules"
+}
+{
+  "name": "copy-secrets",
+  "description": "Copy secrets to repo"
+}
+{
+  "name": "generate-readme-for-repos",
+  "description": "Generate README for repos"
 }
