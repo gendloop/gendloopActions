@@ -27,18 +27,6 @@
   "description": "Create a repository using a template"
 }
 {
-  "name": "create-new-branch",
-  "description": "create new branch"
-}
-{
-  "name": "git-push",
-  "description": "git push"
-}
-{
-  "name": "upload-release-assets",
-  "description": "Upload assets to specific tag"
-}
-{
   "name": "cmake-and-upload",
   "description": "CMake and upload assets by config.txt"
 }
@@ -51,16 +39,20 @@
   "description": "add test project for vs solution"
 }
 {
+  "name": "create-new-branch",
+  "description": "create new branch"
+}
+{
+  "name": "git-push",
+  "description": "git push"
+}
+{
+  "name": "upload-release-assets",
+  "description": "Upload assets to specific tag"
+}
+{
   "name": "add-submodule",
   "description": "Add submodule"
-}
-{
-  "name": "copy-secrets",
-  "description": "Copy secrets to repo"
-}
-{
-  "name": "generate-readme-for-repos",
-  "description": "Generate README for repos"
 }
 {
   "name": "get-repos-by-topics",
@@ -69,6 +61,14 @@
 {
   "name": "delete-submodules",
   "description": "delete-submodules"
+}
+{
+  "name": "copy-secrets",
+  "description": "Copy secrets to repo"
+}
+{
+  "name": "generate-readme-for-repos",
+  "description": "Generate README for repos"
 }
 {
   "name": "release-version",
