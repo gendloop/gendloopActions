@@ -7,12 +7,16 @@
   "description": "Create a repository using a template"
 }
 {
+  "name": "replace-repo-topics",
+  "description": "Replace all repository topics"
+}
+{
   "name": "replace-str",
   "description": "Replace str1 in file1 to str2 in file2"
 }
 {
-  "name": "replace-repo-topics",
-  "description": "Replace all repository topics"
+  "name": "add-submodule",
+  "description": "Add submodule"
 }
 {
   "name": "add-vs-test-project",
@@ -27,8 +31,16 @@
   "description": "CMake and upload assets by config.txt"
 }
 {
-  "name": "add-submodule",
-  "description": "Add submodule"
+  "name": "create-new-branch",
+  "description": "create new branch"
+}
+{
+  "name": "get-repos-by-topics",
+  "description": "get repos by topics"
+}
+{
+  "name": "delete-submodules",
+  "description": "delete-submodules"
 }
 {
   "name": "repository-dispatch",
@@ -43,14 +55,6 @@
   "description": "Add a vs solution to repo."
 }
 {
-  "name": "delete-submodules",
-  "description": "delete-submodules"
-}
-{
-  "name": "get-repos-by-topics",
-  "description": "get repos by topics"
-}
-{
   "name": "git-push",
   "description": "git push"
 }
@@ -59,16 +63,12 @@
   "description": "Upload assets to specific tag"
 }
 {
-  "name": "create-new-branch",
-  "description": "create new branch"
+  "name": "generate-readme-for-repos",
+  "description": "Generate README for repos"
 }
 {
   "name": "copy-secrets",
   "description": "Copy secrets to repo"
-}
-{
-  "name": "generate-readme-for-repos",
-  "description": "Generate README for repos"
 }
 {
   "name": "release-version",
