@@ -1,14 +1,14 @@
 {
-  "name": "update-submodules",
-  "description": "Update submodules"
+  "name": "replace-repo-topics",
+  "description": "Replace all repository topics"
 }
 {
   "name": "create-repo-by-template",
   "description": "Create a repository using a template"
 }
 {
-  "name": "replace-repo-topics",
-  "description": "Replace all repository topics"
+  "name": "update-submodules",
+  "description": "Update submodules"
 }
 {
   "name": "replace-str",
@@ -19,12 +19,24 @@
   "description": "Add submodule"
 }
 {
-  "name": "add-vs-test-project",
-  "description": "add test project for vs solution"
+  "name": "add-vs-solution",
+  "description": "Add a vs solution to repo."
+}
+{
+  "name": "create-manual",
+  "description": "create manual"
+}
+{
+  "name": "repository-dispatch",
+  "description": "repository dispatch"
 }
 {
   "name": "sync-download",
   "description": "Sync downloaded files by downloadFilesFromRepo.json"
+}
+{
+  "name": "add-vs-test-project",
+  "description": "add test project for vs solution"
 }
 {
   "name": "cmake-and-upload",
@@ -35,32 +47,20 @@
   "description": "create new branch"
 }
 {
-  "name": "get-repos-by-topics",
-  "description": "get repos by topics"
-}
-{
-  "name": "delete-submodules",
-  "description": "delete-submodules"
-}
-{
-  "name": "repository-dispatch",
-  "description": "repository-dispatch"
-}
-{
-  "name": "create-manual",
-  "description": "create-manual"
-}
-{
-  "name": "add-vs-solution",
-  "description": "Add a vs solution to repo."
-}
-{
   "name": "git-push",
   "description": "git push"
 }
 {
   "name": "upload-release-assets",
   "description": "Upload assets to specific tag"
+}
+{
+  "name": "get-repos-by-topics",
+  "description": "get repos by topics"
+}
+{
+  "name": "delete-submodules",
+  "description": "delete submodules"
 }
 {
   "name": "generate-readme-for-repos",
