@@ -1,26 +1,18 @@
 {
-  "name": "replace-repo-topics",
-  "description": "Replace all repository topics"
-}
-{
   "name": "update-submodules",
   "description": "Update submodules"
 }
 {
-  "name": "replace-str",
-  "description": "Replace str1 in file1 to str2 in file2"
+  "name": "replace-repo-topics",
+  "description": "Replace all repository topics"
 }
 {
   "name": "create-repo-by-template",
   "description": "Create a repository using a template"
 }
 {
-  "name": "add-submodule",
-  "description": "Add submodule"
-}
-{
-  "name": "sync-download",
-  "description": "Sync downloaded files by downloadFilesFromRepo.json"
+  "name": "replace-str",
+  "description": "Replace str1 in file1 to str2 in file2"
 }
 {
   "name": "add-vs-test-project",
@@ -31,6 +23,14 @@
   "description": "CMake and upload assets by config.txt"
 }
 {
+  "name": "sync-download",
+  "description": "Sync downloaded files by downloadFilesFromRepo.json"
+}
+{
+  "name": "create-manual",
+  "description": "create manual"
+}
+{
   "name": "add-vs-solution",
   "description": "Add a vs solution to repo."
 }
@@ -39,8 +39,8 @@
   "description": "repository dispatch"
 }
 {
-  "name": "create-manual",
-  "description": "create manual"
+  "name": "add-submodule",
+  "description": "Add submodule"
 }
 {
   "name": "create-new-branch",
@@ -55,12 +55,12 @@
   "description": "Upload assets to specific tag"
 }
 {
-  "name": "get-repos-by-topics",
-  "description": "get repos by topics"
-}
-{
   "name": "delete-submodules",
   "description": "delete submodules"
+}
+{
+  "name": "get-repos-by-topics",
+  "description": "get repos by topics"
 }
 {
   "name": "generate-readme-for-repos",
