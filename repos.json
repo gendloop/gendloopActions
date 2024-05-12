@@ -1,4 +1,16 @@
 {
+  "name": "create-manual",
+  "description": "create manual"
+}
+{
+  "name": "add-vs-solution",
+  "description": "Add a vs solution to repo."
+}
+{
+  "name": "repository-dispatch",
+  "description": "repository dispatch"
+}
+{
   "name": "update-submodules",
   "description": "Update submodules"
 }
@@ -19,16 +31,8 @@
   "description": "Add submodule"
 }
 {
-  "name": "create-manual",
-  "description": "create manual"
-}
-{
-  "name": "add-vs-solution",
-  "description": "Add a vs solution to repo."
-}
-{
-  "name": "repository-dispatch",
-  "description": "repository dispatch"
+  "name": "create-new-branch",
+  "description": "create new branch"
 }
 {
   "name": "sync-download",
@@ -41,10 +45,6 @@
 {
   "name": "add-vs-test-project",
   "description": "add test project for vs solution"
-}
-{
-  "name": "create-new-branch",
-  "description": "create new branch"
 }
 {
   "name": "delete-submodules",
