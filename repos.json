@@ -1,16 +1,4 @@
 {
-  "name": "create-manual",
-  "description": "create manual"
-}
-{
-  "name": "add-vs-solution",
-  "description": "Add a vs solution to repo."
-}
-{
-  "name": "repository-dispatch",
-  "description": "repository dispatch"
-}
-{
   "name": "update-submodules",
   "description": "Update submodules"
 }
@@ -25,6 +13,18 @@
 {
   "name": "replace-str",
   "description": "Replace str1 in file1 to str2 in file2"
+}
+{
+  "name": "create-manual",
+  "description": "create manual"
+}
+{
+  "name": "repository-dispatch",
+  "description": "repository dispatch"
+}
+{
+  "name": "add-vs-solution",
+  "description": "Add a vs solution to repo."
 }
 {
   "name": "add-submodule",
