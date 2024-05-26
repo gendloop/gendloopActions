@@ -1,4 +1,8 @@
 {
+  "name": "replace-str",
+  "description": "Replace str1 in file1 to str2 in file2"
+}
+{
   "name": "update-submodules",
   "description": "Update submodules"
 }
@@ -11,28 +15,16 @@
   "description": "Replace all repository topics"
 }
 {
-  "name": "replace-str",
-  "description": "Replace str1 in file1 to str2 in file2"
+  "name": "repository-dispatch",
+  "description": "repository dispatch"
 }
 {
   "name": "create-manual",
   "description": "create manual"
 }
 {
-  "name": "repository-dispatch",
-  "description": "repository dispatch"
-}
-{
   "name": "add-vs-solution",
   "description": "Add a vs solution to repo."
-}
-{
-  "name": "add-submodule",
-  "description": "Add submodule"
-}
-{
-  "name": "create-new-branch",
-  "description": "create new branch"
 }
 {
   "name": "sync-download",
@@ -47,6 +39,14 @@
   "description": "add test project for vs solution"
 }
 {
+  "name": "add-submodule",
+  "description": "Add submodule"
+}
+{
+  "name": "create-new-branch",
+  "description": "create new branch"
+}
+{
   "name": "delete-submodules",
   "description": "delete submodules"
 }
@@ -55,20 +55,20 @@
   "description": "get repos by topics"
 }
 {
-  "name": "git-push",
-  "description": "git push"
-}
-{
   "name": "upload-release-assets",
   "description": "Upload assets to specific tag"
 }
 {
-  "name": "copy-secrets",
-  "description": "Copy secrets to repo"
+  "name": "git-push",
+  "description": "git push"
 }
 {
   "name": "generate-readme-for-repos",
   "description": "Generate README for repos"
+}
+{
+  "name": "copy-secrets",
+  "description": "Copy secrets to repo"
 }
 {
   "name": "release-version",
