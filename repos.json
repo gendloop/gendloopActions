@@ -3,6 +3,10 @@
   "description": "Replace str1 in file1 to str2 in file2"
 }
 {
+  "name": "replace-repo-topics",
+  "description": "Replace all repository topics"
+}
+{
   "name": "update-submodules",
   "description": "Update submodules"
 }
@@ -11,20 +15,8 @@
   "description": "Create a repository using a template"
 }
 {
-  "name": "replace-repo-topics",
-  "description": "Replace all repository topics"
-}
-{
-  "name": "repository-dispatch",
-  "description": "repository dispatch"
-}
-{
-  "name": "create-manual",
-  "description": "create manual"
-}
-{
-  "name": "add-vs-solution",
-  "description": "Add a vs solution to repo."
+  "name": "add-vs-test-project",
+  "description": "add test project for vs solution"
 }
 {
   "name": "sync-download",
@@ -35,24 +27,32 @@
   "description": "CMake and upload assets by config.txt"
 }
 {
-  "name": "add-vs-test-project",
-  "description": "add test project for vs solution"
+  "name": "create-manual",
+  "description": "create manual"
+}
+{
+  "name": "add-vs-solution",
+  "description": "Add a vs solution to repo."
+}
+{
+  "name": "repository-dispatch",
+  "description": "repository dispatch"
 }
 {
   "name": "add-submodule",
   "description": "Add submodule"
 }
 {
-  "name": "create-new-branch",
-  "description": "create new branch"
+  "name": "get-repos-by-topics",
+  "description": "get repos by topics"
 }
 {
   "name": "delete-submodules",
   "description": "delete submodules"
 }
 {
-  "name": "get-repos-by-topics",
-  "description": "get repos by topics"
+  "name": "create-new-branch",
+  "description": "create new branch"
 }
 {
   "name": "upload-release-assets",
