@@ -27,32 +27,32 @@
   "description": "repository dispatch"
 }
 {
-  "name": "get-repos-by-topics",
-  "description": "get repos by topics"
-}
-{
-  "name": "delete-submodules",
-  "description": "delete submodules"
+  "name": "add-submodule",
+  "description": "Add submodule"
 }
 {
   "name": "add-vs-test-project",
   "description": "add test project for vs solution"
 }
 {
-  "name": "sync-download",
-  "description": "Sync downloaded files by downloadFilesFromRepo.json"
-}
-{
   "name": "cmake-and-upload",
   "description": "CMake and upload assets by config.txt"
 }
 {
-  "name": "add-submodule",
-  "description": "Add submodule"
+  "name": "sync-download",
+  "description": "Sync downloaded files by downloadFilesFromRepo.json"
 }
 {
   "name": "create-new-branch",
   "description": "create new branch"
+}
+{
+  "name": "get-repos-by-topics",
+  "description": "get repos by topics"
+}
+{
+  "name": "delete-submodules",
+  "description": "delete submodules"
 }
 {
   "name": "upload-release-assets",
@@ -71,10 +71,10 @@
   "description": "Copy secrets to repo"
 }
 {
-  "name": "release-version",
-  "description": "Release new version"
-}
-{
   "name": "convert-encoding",
   "description": "Convert file encoding"
+}
+{
+  "name": "release-version",
+  "description": "Release new version"
 }
