@@ -15,6 +15,18 @@
   "description": "Replace all repository topics"
 }
 {
+  "name": "cmake-and-upload",
+  "description": "CMake and upload assets by config.txt"
+}
+{
+  "name": "add-vs-test-project",
+  "description": "add test project for vs solution"
+}
+{
+  "name": "sync-download",
+  "description": "Sync downloaded files by downloadFilesFromRepo.json"
+}
+{
   "name": "repository-dispatch",
   "description": "repository dispatch"
 }
@@ -31,16 +43,8 @@
   "description": "Add submodule"
 }
 {
-  "name": "cmake-and-upload",
-  "description": "CMake and upload assets by config.txt"
-}
-{
-  "name": "add-vs-test-project",
-  "description": "add test project for vs solution"
-}
-{
-  "name": "sync-download",
-  "description": "Sync downloaded files by downloadFilesFromRepo.json"
+  "name": "create-new-branch",
+  "description": "create new branch"
 }
 {
   "name": "upload-release-assets",
@@ -49,10 +53,6 @@
 {
   "name": "git-push",
   "description": "git push"
-}
-{
-  "name": "create-new-branch",
-  "description": "create new branch"
 }
 {
   "name": "get-repos-by-topics",
