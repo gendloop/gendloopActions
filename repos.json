@@ -1,10 +1,22 @@
 {
-  "name": "update-submodules",
-  "description": "Update submodules"
+  "name": "create-manual",
+  "description": "create manual"
+}
+{
+  "name": "add-vs-solution",
+  "description": "Add a vs solution to repo."
+}
+{
+  "name": "repository-dispatch",
+  "description": "repository dispatch"
 }
 {
   "name": "replace-str",
   "description": "Replace str1 in file1 to str2 in file2"
+}
+{
+  "name": "update-submodules",
+  "description": "Update submodules"
 }
 {
   "name": "create-repo-by-template",
@@ -15,6 +27,10 @@
   "description": "Replace all repository topics"
 }
 {
+  "name": "sync-download",
+  "description": "Sync downloaded files by downloadFilesFromRepo.json"
+}
+{
   "name": "cmake-and-upload",
   "description": "CMake and upload assets by config.txt"
 }
@@ -23,28 +39,8 @@
   "description": "add test project for vs solution"
 }
 {
-  "name": "sync-download",
-  "description": "Sync downloaded files by downloadFilesFromRepo.json"
-}
-{
-  "name": "repository-dispatch",
-  "description": "repository dispatch"
-}
-{
-  "name": "add-vs-solution",
-  "description": "Add a vs solution to repo."
-}
-{
-  "name": "create-manual",
-  "description": "create manual"
-}
-{
   "name": "add-submodule",
   "description": "Add submodule"
-}
-{
-  "name": "create-new-branch",
-  "description": "create new branch"
 }
 {
   "name": "upload-release-assets",
@@ -55,20 +51,24 @@
   "description": "git push"
 }
 {
-  "name": "get-repos-by-topics",
-  "description": "get repos by topics"
+  "name": "create-new-branch",
+  "description": "create new branch"
 }
 {
   "name": "delete-submodules",
   "description": "delete submodules"
 }
 {
-  "name": "copy-secrets",
-  "description": "Copy secrets to repo"
+  "name": "get-repos-by-topics",
+  "description": "get repos by topics"
 }
 {
   "name": "generate-readme-for-repos",
   "description": "Generate README for repos"
+}
+{
+  "name": "copy-secrets",
+  "description": "Copy secrets to repo"
 }
 {
   "name": "convert-encoding",
