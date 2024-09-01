@@ -1,30 +1,38 @@
 {
-  "name": "create-manual",
-  "description": "create manual"
-}
-{
-  "name": "add-vs-solution",
-  "description": "Add a vs solution to repo."
-}
-{
-  "name": "repository-dispatch",
-  "description": "repository dispatch"
-}
-{
-  "name": "replace-str",
-  "description": "Replace str1 in file1 to str2 in file2"
+  "name": "check-commit",
+  "description": "检查提交是否满足规范"
 }
 {
   "name": "update-submodules",
   "description": "Update submodules"
 }
 {
+  "name": "replace-repo-topics",
+  "description": "Replace all repository topics"
+}
+{
   "name": "create-repo-by-template",
   "description": "Create a repository using a template"
 }
 {
-  "name": "replace-repo-topics",
-  "description": "Replace all repository topics"
+  "name": "replace-str",
+  "description": "Replace str1 in file1 to str2 in file2"
+}
+{
+  "name": "add-vs-solution",
+  "description": "Add a vs solution to repo."
+}
+{
+  "name": "create-manual",
+  "description": "create manual"
+}
+{
+  "name": "repository-dispatch",
+  "description": "repository dispatch"
+}
+{
+  "name": "add-vs-test-project",
+  "description": "add test project for vs solution"
 }
 {
   "name": "sync-download",
@@ -33,10 +41,6 @@
 {
   "name": "cmake-and-upload",
   "description": "CMake and upload assets by config.txt"
-}
-{
-  "name": "add-vs-test-project",
-  "description": "add test project for vs solution"
 }
 {
   "name": "add-submodule",
@@ -51,24 +55,24 @@
   "description": "git push"
 }
 {
-  "name": "create-new-branch",
-  "description": "create new branch"
+  "name": "get-repos-by-topics",
+  "description": "get repos by topics"
 }
 {
   "name": "delete-submodules",
   "description": "delete submodules"
 }
 {
-  "name": "get-repos-by-topics",
-  "description": "get repos by topics"
-}
-{
-  "name": "generate-readme-for-repos",
-  "description": "Generate README for repos"
+  "name": "create-new-branch",
+  "description": "create new branch"
 }
 {
   "name": "copy-secrets",
   "description": "Copy secrets to repo"
+}
+{
+  "name": "generate-readme-for-repos",
+  "description": "Generate README for repos"
 }
 {
   "name": "convert-encoding",
