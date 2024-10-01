@@ -1,84 +1,88 @@
 {
+  "name": "replace-str",
+  "description": "替换文件中的字符串"
+}
+{
+  "name": "create-repo-by-template",
+  "description": "用指定模板创建新仓库"
+}
+{
+  "name": "update-submodules",
+  "description": "更新所有子模块"
+}
+{
+  "name": "replace-repo-topics",
+  "description": "替换仓库的主题"
+}
+{
   "name": "check-commit",
   "description": "检查提交是否满足规范"
 }
 {
-  "name": "update-submodules",
-  "description": "Update submodules"
-}
-{
-  "name": "replace-repo-topics",
-  "description": "Replace all repository topics"
-}
-{
-  "name": "create-repo-by-template",
-  "description": "Create a repository using a template"
-}
-{
-  "name": "replace-str",
-  "description": "Replace str1 in file1 to str2 in file2"
-}
-{
-  "name": "add-vs-solution",
-  "description": "Add a vs solution to repo."
-}
-{
-  "name": "create-manual",
-  "description": "create manual"
-}
-{
-  "name": "repository-dispatch",
-  "description": "repository dispatch"
-}
-{
-  "name": "add-vs-test-project",
-  "description": "add test project for vs solution"
-}
-{
   "name": "sync-download",
-  "description": "Sync downloaded files by downloadFilesFromRepo.json"
+  "description": "根据 downloadFilesFromRepo.json 配置 同步指定文件"
 }
 {
   "name": "cmake-and-upload",
-  "description": "CMake and upload assets by config.txt"
+  "description": "执行 CMake 编绎 config.txt 中库版本 并上传至 Releases"
+}
+{
+  "name": "add-vs-test-project",
+  "description": "为当前仓库中的VS项目解决方案添加一个GoogleTest测试项目"
+}
+{
+  "name": "repository-dispatch",
+  "description": "调用指定仓库下的工作流"
+}
+{
+  "name": "create-manual",
+  "description": "根据符合格式的测试文件自动生成帮助手册文档"
+}
+{
+  "name": "add-vs-solution",
+  "description": "为当前仓库创建一个 VS 项目解决方案"
 }
 {
   "name": "add-submodule",
-  "description": "Add submodule"
+  "description": "添加一个子模块"
+}
+{
+  "name": "get-repos-by-topics",
+  "description": "获取指定主题的所有公开仓库"
+}
+{
+  "name": "delete-submodules",
+  "description": "删除指定或所有的子模块"
+}
+{
+  "name": "git-push",
+  "description": "Git 提交消息至远程"
 }
 {
   "name": "upload-release-assets",
   "description": "Upload assets to specific tag"
 }
 {
-  "name": "git-push",
-  "description": "git push"
-}
-{
-  "name": "get-repos-by-topics",
-  "description": "get repos by topics"
-}
-{
-  "name": "delete-submodules",
-  "description": "delete submodules"
+  "name": "mirror-to-new-repo",
+  "description": "将当前仓库所有内容镜像到另一远程仓库"
 }
 {
   "name": "create-new-branch",
-  "description": "create new branch"
+  "description": "创建一个新分支"
 }
 {
   "name": "copy-secrets",
-  "description": "Copy secrets to repo"
+  "description": "克隆当前仓库中的密钥到指定仓库"
 }
 {
   "name": "generate-readme-for-repos",
-  "description": "Generate README for repos"
+  "description": "根据 repos.json 生成指定标签的 README 文档"
 }
 {
   "name": "convert-encoding",
-  "description": "Convert file encoding"
+  "description": "转化指定路径下的文件编码"
 }
 {
   "name": "release-version",
-  "description": "Release new version"
+  "description": "发布新版本至 Releases"
 }
