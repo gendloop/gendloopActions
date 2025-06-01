@@ -1,74 +1,58 @@
 {
-  "name": "create-manual",
-  "description": "create-manual, 根据符合格式的测试文件自动生成帮助手册文档"
-}
-{
-  "name": "add-vs-solution",
-  "description": "add-vs-solution, 为当前仓库创建一个 VS 项目解决方案"
-}
-{
-  "name": "repository-dispatch",
-  "description": "repository-dispatch, 调用指定仓库下的工作流"
-}
-{
-  "name": "sync-download",
-  "description": "sync-download, 根据 downloadFilesFromRepo.json 配置 同步指定文件"
-}
-{
-  "name": "cmake-and-upload",
-  "description": "cmake-and-upload, 执行 CMake 编绎 config.txt 中库版本 并上传至 Releases"
-}
-{
-  "name": "add-vs-test-project",
-  "description": "add-vs-test-project, 为当前仓库中的VS项目解决方案添加一个GoogleTest测试项目"
-}
-{
   "name": "add-submodule",
   "description": "add-submodule, 添加一个子模块"
-}
-{
-  "name": "replace-str",
-  "description": "replace-str, 替换文件中的字符串"
-}
-{
-  "name": "update-submodules",
-  "description": "update-submodules, 更新所有子模块"
-}
-{
-  "name": "replace-repo-topics",
-  "description": "replace-repo-topics, 替换仓库的主题"
 }
 {
   "name": "create-repo-by-template",
   "description": "create-repo-by-template, 用指定模板创建新仓库"
 }
 {
-  "name": "check-commit",
-  "description": "check-commit, 检查提交是否满足规范"
+  "name": "create-manual",
+  "description": "create-manual, 根据符合格式的测试文件自动生成帮助手册文档"
 }
 {
-  "name": "create-new-branch",
-  "description": "create-new-branch, 创建一个新分支"
+  "name": "repository-dispatch",
+  "description": "repository-dispatch, 调用指定仓库下的工作流"
 }
 {
-  "name": "get-repos-by-topics",
-  "description": "get-repos-by-topics, 获取指定主题的所有公开仓库"
+  "name": "cmake-and-upload",
+  "description": "cmake-and-upload, 执行 CMake 编绎 config.txt 中库版本 并上传至 Releases"
 }
 {
   "name": "delete-submodules",
   "description": "delete-submodules, 删除指定或所有的子模块"
 }
 {
+  "name": "get-repos-by-topics",
+  "description": "get-repos-by-topics, 获取指定主题的所有公开仓库"
+}
+{
+  "name": "sync-download",
+  "description": "sync-download, 根据 downloadFilesFromRepo.json 配置 同步指定文件"
+}
+{
+  "name": "add-vs-test-project",
+  "description": "add-vs-test-project, 为当前仓库中的VS项目解决方案添加一个GoogleTest测试项目"
+}
+{
+  "name": "replace-repo-topics",
+  "description": "replace-repo-topics, 替换仓库的主题"
+}
+{
+  "name": "update-submodules",
+  "description": "update-submodules, 更新所有子模块"
+}
+{
+  "name": "check-commit",
+  "description": "check-commit, 检查提交是否满足规范"
+}
+{
+  "name": "replace-str",
+  "description": "replace-str, 替换文件中的字符串"
+}
+{
   "name": "mirror-to-new-repo",
   "description": "mirror-to-new-repo, 将当前仓库所有内容镜像到另一远程仓库"
-}
-{
-  "name": "upload-release-assets",
-  "description": "upload-release-assets, Upload assets to specific tag"
-}
-{
-  "name": "git-push",
-  "description": "git-push, Git 提交消息至远程"
 }
 {
   "name": "generate-readme-for-repos",
@@ -79,10 +63,26 @@
   "description": "copy-secrets, 克隆当前仓库中的密钥到指定仓库"
 }
 {
-  "name": "release-version",
-  "description": "release-version, 发布新版本至 Releases"
+  "name": "add-vs-solution",
+  "description": "add-vs-solution, 为当前仓库创建一个 VS 项目解决方案"
+}
+{
+  "name": "create-new-branch",
+  "description": "create-new-branch, 创建一个新分支"
+}
+{
+  "name": "git-push",
+  "description": "git-push, Git 提交消息至远程"
+}
+{
+  "name": "upload-release-assets",
+  "description": "upload-release-assets, Upload assets to specific tag"
 }
 {
   "name": "convert-encoding",
   "description": "convert-encoding, 转化指定路径下的文件编码"
+}
+{
+  "name": "release-version",
+  "description": "release-version, 发布新版本至 Releases"
 }
