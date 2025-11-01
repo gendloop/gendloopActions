@@ -1,10 +1,10 @@
 {
-  "name": "add-submodule",
-  "description": "add-submodule, 添加一个子模块"
-}
-{
   "name": "cmake-and-upload",
   "description": "cmake-and-upload, 执行 CMake 编绎 config.txt 中库版本 并上传至 Releases"
+}
+{
+  "name": "add-submodule",
+  "description": "add-submodule, 添加一个子模块"
 }
 {
   "name": "create-repo-by-template",
@@ -27,26 +27,6 @@
   "description": "delete-submodules, 删除指定或所有的子模块"
 }
 {
-  "name": "release-version",
-  "description": "release-version, 发布新版本至 Releases"
-}
-{
-  "name": "convert-encoding",
-  "description": "convert-encoding, 转化指定路径下的文件编码"
-}
-{
-  "name": "generate-readme-for-repos",
-  "description": "generate-readme-for-repos, 根据 repos.json 生成指定标签的 README 文档"
-}
-{
-  "name": "copy-secrets",
-  "description": "copy-secrets, 克隆当前仓库中的密钥到指定仓库"
-}
-{
-  "name": "create-new-branch",
-  "description": "create-new-branch, 创建一个新分支"
-}
-{
   "name": "update-submodules",
   "description": "update-submodules, 更新所有子模块"
 }
@@ -63,16 +43,40 @@
   "description": "check-commit, 检查提交是否满足规范"
 }
 {
+  "name": "convert-encoding",
+  "description": "convert-encoding, 转化指定路径下的文件编码"
+}
+{
+  "name": "release-version",
+  "description": "release-version, 发布新版本至 Releases"
+}
+{
+  "name": "create-new-branch",
+  "description": "create-new-branch, 创建一个新分支"
+}
+{
+  "name": "generate-readme-for-repos",
+  "description": "generate-readme-for-repos, 根据 repos.json 生成指定标签的 README 文档"
+}
+{
+  "name": "copy-secrets",
+  "description": "copy-secrets, 克隆当前仓库中的密钥到指定仓库"
+}
+{
   "name": "add-vs-solution",
   "description": "add-vs-solution, 为当前仓库创建一个 VS 项目解决方案"
+}
+{
+  "name": "add-vs-test-project",
+  "description": "add-vs-test-project, 为当前仓库中的VS项目解决方案添加一个GoogleTest测试项目"
 }
 {
   "name": "sync-download",
   "description": "sync-download, 根据 downloadFilesFromRepo.json 配置 同步指定文件"
 }
 {
-  "name": "add-vs-test-project",
-  "description": "add-vs-test-project, 为当前仓库中的VS项目解决方案添加一个GoogleTest测试项目"
+  "name": "mirror-to-new-repo",
+  "description": "mirror-to-new-repo, 将当前仓库所有内容镜像到另一远程仓库"
 }
 {
   "name": "git-push",
@@ -81,8 +85,4 @@
 {
   "name": "upload-release-assets",
   "description": "upload-release-assets, Upload assets to specific tag"
-}
-{
-  "name": "mirror-to-new-repo",
-  "description": "mirror-to-new-repo, 将当前仓库所有内容镜像到另一远程仓库"
 }
