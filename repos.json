@@ -7,10 +7,6 @@
   "description": "add-submodule, 添加一个子模块"
 }
 {
-  "name": "create-repo-by-template",
-  "description": "create-repo-by-template, 用指定模板创建新仓库"
-}
-{
   "name": "update-submodules",
   "description": "update-submodules, 更新所有子模块"
 }
@@ -25,6 +21,10 @@
 {
   "name": "check-commit",
   "description": "check-commit, 检查提交是否满足规范"
+}
+{
+  "name": "create-repo-by-template",
+  "description": "create-repo-by-template, 用指定模板创建新仓库"
 }
 {
   "name": "get-repos-by-topics",
@@ -51,14 +51,6 @@
   "description": "copy-secrets, 克隆当前仓库中的密钥到指定仓库"
 }
 {
-  "name": "convert-encoding",
-  "description": "convert-encoding, 转化指定路径下的文件编码"
-}
-{
-  "name": "release-version",
-  "description": "release-version, 发布新版本至 Releases"
-}
-{
   "name": "create-new-branch",
   "description": "create-new-branch, 创建一个新分支"
 }
@@ -67,8 +59,12 @@
   "description": "add-vs-solution, 为当前仓库创建一个 VS 项目解决方案"
 }
 {
-  "name": "mirror-to-new-repo",
-  "description": "mirror-to-new-repo, 将当前仓库所有内容镜像到另一远程仓库"
+  "name": "convert-encoding",
+  "description": "convert-encoding, 转化指定路径下的文件编码"
+}
+{
+  "name": "release-version",
+  "description": "release-version, 发布新版本至 Releases"
 }
 {
   "name": "add-vs-test-project",
@@ -77,6 +73,10 @@
 {
   "name": "sync-download",
   "description": "sync-download, 根据 downloadFilesFromRepo.json 配置 同步指定文件"
+}
+{
+  "name": "mirror-to-new-repo",
+  "description": "mirror-to-new-repo, 将当前仓库所有内容镜像到另一远程仓库"
 }
 {
   "name": "git-push",
