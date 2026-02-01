@@ -3,10 +3,6 @@
   "description": "cmake-and-upload, 执行 CMake 编绎 config.txt 中库版本 并上传至 Releases"
 }
 {
-  "name": "add-submodule",
-  "description": "add-submodule, 添加一个子模块"
-}
-{
   "name": "update-submodules",
   "description": "update-submodules, 更新所有子模块"
 }
@@ -23,8 +19,8 @@
   "description": "check-commit, 检查提交是否满足规范"
 }
 {
-  "name": "create-repo-by-template",
-  "description": "create-repo-by-template, 用指定模板创建新仓库"
+  "name": "add-submodule",
+  "description": "add-submodule, 添加一个子模块"
 }
 {
   "name": "get-repos-by-topics",
@@ -35,6 +31,10 @@
   "description": "delete-submodules, 删除指定或所有的子模块"
 }
 {
+  "name": "create-repo-by-template",
+  "description": "create-repo-by-template, 用指定模板创建新仓库"
+}
+{
   "name": "create-manual",
   "description": "create-manual, 根据符合格式的测试文件自动生成帮助手册文档"
 }
@@ -43,20 +43,16 @@
   "description": "repository-dispatch, 调用指定仓库下的工作流"
 }
 {
+  "name": "add-vs-solution",
+  "description": "add-vs-solution, 为当前仓库创建一个 VS 项目解决方案"
+}
+{
   "name": "generate-readme-for-repos",
   "description": "generate-readme-for-repos, 根据 repos.json 生成指定标签的 README 文档"
 }
 {
   "name": "copy-secrets",
   "description": "copy-secrets, 克隆当前仓库中的密钥到指定仓库"
-}
-{
-  "name": "create-new-branch",
-  "description": "create-new-branch, 创建一个新分支"
-}
-{
-  "name": "add-vs-solution",
-  "description": "add-vs-solution, 为当前仓库创建一个 VS 项目解决方案"
 }
 {
   "name": "convert-encoding",
@@ -73,6 +69,10 @@
 {
   "name": "sync-download",
   "description": "sync-download, 根据 downloadFilesFromRepo.json 配置 同步指定文件"
+}
+{
+  "name": "create-new-branch",
+  "description": "create-new-branch, 创建一个新分支"
 }
 {
   "name": "mirror-to-new-repo",
